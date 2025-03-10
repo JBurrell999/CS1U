@@ -42,3 +42,4 @@ Stanford's course on UNIX, using as a refresher for more advanced unix commands 
 * comm - compare two sorted files
 * sed - modify texts based on patterns
 * awk: processed structured text file (CSV or tables)
+* os.system: execute command in subshell
