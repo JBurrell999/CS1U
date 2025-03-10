@@ -43,3 +43,5 @@ Stanford's course on UNIX, using as a refresher for more advanced unix commands 
 * sed - modify texts based on patterns
 * awk: processed structured text file (CSV or tables)
 * os.system: execute command in subshell
+
+*Lamp Install: https://www.digitalocean.com/community/tutorials/how-to-install-lamp-stack-on-ubuntu
